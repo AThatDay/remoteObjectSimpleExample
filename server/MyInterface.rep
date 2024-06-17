@@ -1,0 +1,5 @@
+class MyInterface
+{
+PROP(int lifeUniverseEverything=42)
+
+};
